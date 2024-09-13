@@ -17,3 +17,7 @@ This web crawler is a prototype developed during my software engineering interns
 - **Extracts Video Links**: The crawler navigates through specified Texas pension fund websites to locate and extract video links for public plan investment committee meetings.
 - **Automates Retrieval**: By automating the extraction process, the crawler helps streamline the collection of video content for subsequent transcription and analysis.
 - **Prototype for Automation**: This prototype serves as a foundational tool for the startup's broader goal of automating transcription processes for their clients, ultimately aiding in fund-raising efforts.
+
+##How To Use
+
+Go to the Notebooks Folder to the Colab Notebook and click Open in Colab and Run
