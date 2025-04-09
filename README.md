@@ -18,6 +18,9 @@ This web crawler is a prototype developed during my software engineering interns
 - **Automates Retrieval**: By automating the extraction process, the crawler helps streamline the collection of video content for subsequent transcription and analysis.
 - **Prototype for Automation**: This prototype serves as a foundational tool for the startup's broader goal of automating transcription processes for their clients, ultimately aiding in fund-raising efforts.
 
+- **Note:** UT System and TRS stand for University of Texas System and Texas Retirement System, respectively
+
 ##How To Use
 
-Go to the Notebooks Folder to the Colab Notebook and click Open in Colab and Run
+- Go to the Notebooks Folder to the Colab Notebook and click Open in Colab and Run
+- The Preview of the Colab Notebooks *do* already have the Code run with the output visible as well, but the as the output of installing the dependencies is visible so scroll down to look at the code and output
